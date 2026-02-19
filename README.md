@@ -152,7 +152,6 @@ This analysis is fully reproducible. Running the notebook from top to bottom wil
 ## Author
 
 Data Science Intern Candidate
-## Author
 
 Arjun Deo Mishra  
 B.Tech Computer Science (AI/ML)  
