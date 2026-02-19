@@ -158,4 +158,4 @@ Arjun Deo Mishra
 B.Tech Computer Science (AI/ML)  
 Data Science Intern Candidate  
 GitHub: https://github.com/ARJUNDEOMISHRA?tab=repositories
-Email: arjundeomishra@gmialcom
+Email: arjundeomishra@gmial.com
